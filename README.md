@@ -1,2 +1,2 @@
 # blog.expipi.one
-exp(i*pi) = 1
+exp(i*pi) + 1 = 0
